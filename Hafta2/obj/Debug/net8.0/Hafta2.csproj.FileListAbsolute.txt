@@ -12,3 +12,4 @@
 /Users/irembagcivan/Desktop/Veri-Yapilari-ve-Algoritmalar/Hafta2/obj/Debug/net8.0/Hafta2.pdb
 /Users/irembagcivan/Desktop/Veri-Yapilari-ve-Algoritmalar/Hafta2/obj/Debug/net8.0/Hafta2.genruntimeconfig.cache
 /Users/irembagcivan/Desktop/Veri-Yapilari-ve-Algoritmalar/Hafta2/obj/Debug/net8.0/ref/Hafta2.dll
+/Users/irembagcivan/Desktop/Veri-Yapilari-ve-Algoritmalar/Hafta2/obj/Debug/net8.0/Hafta2.sourcelink.json
